@@ -29,7 +29,7 @@ This sheet contains data about units **Name**, **Army faction**, **Power Level**
 This sheet contains data about models **Name**, **Point value**
 
 * Model profiles
-This sheet contains model profiles **Movement**, **Weapon skill**,
+This sheet contains model profiles **Name**, ***Movement**, **Weapon skill**,
 **Ballistic skill**, **Strength**, **Toughness**, **Wounds**, **Attacks**, **Leadership**,
 **Saving throw**  
 Most of the units have only one profile, but this is useful for damage tables.
@@ -41,7 +41,7 @@ This sheet contains data about abilities **Name**, **Aura**, **Description**
 This sheet contains data about weapons **Name**, **Point value**
 
 * Weapon profiles
-This sheet contains weapon profiles **Range**, **Type**, **Strength**,
+This sheet contains weapon profiles **Name**, **Range**, **Type**, **Strength**,
 **Armour piercing**, **Damage**, **Abilities**
 
 * Wargear
