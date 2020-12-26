@@ -21,52 +21,52 @@ The documents have different structure based on the game they are created for.
 ### Warhammer 40k
 The standard Warhammer 40k faction document has the following sheets:
 
-* Units
+* Units  
 This sheet contains data about units **Name**, **Army faction**, **Power Level**,
 **Battlefield role**, **Wargear options**, **Transport**
 
-* Models
+* Models  
 This sheet contains data about models **Name**, **Point value**
 
-* Model profiles
-This sheet contains model profiles **Name**, ***Movement**, **Weapon skill**,
+* Model profiles  
+This sheet contains model profiles **Name**, **Movement**, **Weapon skill**,
 **Ballistic skill**, **Strength**, **Toughness**, **Wounds**, **Attacks**, **Leadership**,
 **Saving throw**  
 Most of the units have only one profile, but this is useful for damage tables.
 
-* Abilities
+* Abilities  
 This sheet contains data about abilities **Name**, **Aura**, **Description**
 
-* Weapons
+* Weapons  
 This sheet contains data about weapons **Name**, **Point value**
 
-* Weapon profiles
+* Weapon profiles  
 This sheet contains weapon profiles **Name**, **Range**, **Type**, **Strength**,
 **Armour piercing**, **Damage**, **Abilities**
 
-* Wargear
+* Wargear  
 This sheet contains wargear other than weapons **Name**, **Description**, **Point value**
 
-* Keywords
+* Keywords  
 This sheet contains list of keywords **Keyword**, **Faction**
 
-* Models_Units
+* Models_Units  
 This sheet contains map of models to units **Unit**, **Model**, **Minimum size**
 
-* Weapons_Models
+* Weapons_Models  
 This sheet contains map of weapons to models **Model**, **Weapon**
 
-* Profiles_Models
+* Profiles_Models  
 This sheet contains map of profiles to models **Model**, **Model profile**
 
-* Profiles_Weapons
+* Profiles_Weapons  
 This sheet contains map of profiles to weapons **Weapon**, **Weapon profile**
 
-* Abilities_Units
+* Abilities_Units  
 This sheet contains map of abilities to units **Unit**, **Ability**
 
-* Wargear_Units
+* Wargear_Units  
 This sheet contains map of wargear to units **Unit**, **Wargear**
 
-* Keywords_Units
+* Keywords_Units  
 This sheet contains map of keywords to units **Unit**, **Keyword**
