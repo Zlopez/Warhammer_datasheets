@@ -22,7 +22,7 @@ The documents have different structure based on the game they are created for.
 The standard Warhammer 40k faction document has the following sheets:
 
 * Units  
-This sheet contains data about units **Name**, **Army faction**, **Power Level**,
+This sheet contains data about units **Name**, **Power Level**,
 **Battlefield role**, **Wargear options**, **Transport**
 
 * Models  
